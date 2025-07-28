@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Himangi Mishra</h1>
+<h2 align="center"><b>Full Stack Web Developer | Data Structures & Algorithms Enthusiast | AI & Machine Learning Explorer</b></h2>
 <h3 align="center">💻 A passionate Computer Science student from India, deeply engaged in the world of Development, Data Structures & Algorithms (DSA), and Artificial Intelligence & Machine Learning (AIML). 🌱 I'm a consistent programmer, sharpening my problem-solving skills through regular practice on platforms like LeetCode. 🚀 I have a growing interest in building meaningful, user-focused applications, and I love turning ideas into real-world projects. 🔍 Always curious and eager to explore new technologies, frameworks, and tools that can help enhance my development journey.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himangi131&label=Profile%20views&color=0e75b6&style=flat" alt="himangi131" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himangi131" alt="himangi131" /></a> </p>
 
-- 🔭 I’m currently working on **Customer Churn Prediction Model**
+- 🔭 I’m currently working on**Air Quality Forecasting Model** and **Customer Churn Prediction Model**
 
 - 🌱 I’m currently learning **ReactJS, Express.js, Machine Learning, Python, and Data Structures & Algorithms**
 
@@ -16,6 +17,12 @@
 - 📫 How to reach me **mishrahimangi31@gmail.com**
 
 - ⚡ Fun fact **Even bugs are scared of me when I debug at 2AM 😄**
+- <h3 align="left">📊 My LeetCode Stats:</h3>
+<p align="left">
+  <a href="https://leetcode.com/himangi19/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/himangi19?theme=light&font=baloo&ext=contest" alt="Leetcode Stats" />
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
